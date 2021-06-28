@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/task-tracker/static/css/main.1635e87c.chunk.css",
-    "main.js": "/task-tracker/static/js/main.9c6eaf2c.chunk.js",
-    "main.js.map": "/task-tracker/static/js/main.9c6eaf2c.chunk.js.map",
-    "runtime-main.js": "/task-tracker/static/js/runtime-main.13906996.js",
-    "runtime-main.js.map": "/task-tracker/static/js/runtime-main.13906996.js.map",
-    "static/js/2.d817653d.chunk.js": "/task-tracker/static/js/2.d817653d.chunk.js",
-    "static/js/2.d817653d.chunk.js.map": "/task-tracker/static/js/2.d817653d.chunk.js.map",
-    "static/js/3.8756b3d9.chunk.js": "/task-tracker/static/js/3.8756b3d9.chunk.js",
-    "static/js/3.8756b3d9.chunk.js.map": "/task-tracker/static/js/3.8756b3d9.chunk.js.map",
-    "index.html": "/task-tracker/index.html",
-    "static/css/main.1635e87c.chunk.css.map": "/task-tracker/static/css/main.1635e87c.chunk.css.map",
-    "static/js/2.d817653d.chunk.js.LICENSE.txt": "/task-tracker/static/js/2.d817653d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/task-tracker/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-task-tracker/static/css/main.1635e87c.chunk.css",
+    "main.js": "/react-task-tracker/static/js/main.9c6eaf2c.chunk.js",
+    "main.js.map": "/react-task-tracker/static/js/main.9c6eaf2c.chunk.js.map",
+    "runtime-main.js": "/react-task-tracker/static/js/runtime-main.9607f47b.js",
+    "runtime-main.js.map": "/react-task-tracker/static/js/runtime-main.9607f47b.js.map",
+    "static/js/2.d817653d.chunk.js": "/react-task-tracker/static/js/2.d817653d.chunk.js",
+    "static/js/2.d817653d.chunk.js.map": "/react-task-tracker/static/js/2.d817653d.chunk.js.map",
+    "static/js/3.8756b3d9.chunk.js": "/react-task-tracker/static/js/3.8756b3d9.chunk.js",
+    "static/js/3.8756b3d9.chunk.js.map": "/react-task-tracker/static/js/3.8756b3d9.chunk.js.map",
+    "index.html": "/react-task-tracker/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/react-task-tracker/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.d817653d.chunk.js.LICENSE.txt": "/react-task-tracker/static/js/2.d817653d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-task-tracker/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13906996.js",
+    "static/js/runtime-main.9607f47b.js",
     "static/js/2.d817653d.chunk.js",
     "static/css/main.1635e87c.chunk.css",
     "static/js/main.9c6eaf2c.chunk.js"
